@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Blog post title-2",
+      "content": "Sample content....."
+    },
+    {
+      "id": "3",
+      "title": "Blog post title-3",
+      "content": "Sample content....."
+    },
+    {
+      "id": "4",
+      "title": "Sreeja",
+      "content": "Beautiful Girl"
+    },
+    {
+      "id": "6",
+      "title": "Sai",
+      "content": "Dummy"
+    }
+  ]
+}
