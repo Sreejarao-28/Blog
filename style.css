@@ -1,0 +1,121 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color: #f5f8fa;
+    height: 100vh;
+    margin: 0;
+
+}
+.c h1{
+    color: rgb(121, 9, 9);
+    margin-bottom: 50%;
+    margin-right: 40%;
+    margin-left: 4%;
+    margin-top: -3%;
+}
+.c img{
+    height: 45px;
+    margin-left: 1%;
+    margin-top: 5%;
+    padding:5px
+}
+
+
+.container{
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    width:400px;
+    margin-left: 40%;
+    margin-top: -45%;
+    
+    
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.a{
+    display: flex;
+}
+.a img {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-left: -3px;
+}
+.header h1 {
+    font-size: 18px;
+    color: #333333;
+    margin: 0;
+}
+.appointment {
+    color: #27a745;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.scheduled {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 5px;
+}
+.a span{
+    color: #555555;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-right:20px ;
+}
+.b{
+    font-size: 16px;
+    color: #555555;
+    margin-top: 30px;
+    margin-right: 10px;
+    display: flex;
+    
+}
+.b img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top:-12px;
+    margin-left: -4px;
+    
+}
+.date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f3f4;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.date img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.t {
+    font-size: 14px;
+    color: #333333;
+}
+.time {
+    font-size: 14px;
+    color: #333333;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:white;
+    color: #007bff;
+    text-decoration: none;
+    border: #007bff 2px solid;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
